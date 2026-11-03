@@ -1,0 +1,1 @@
+The backend is built with FastAPI (Python) and a MySQL database running in Docker. Passwords are hashed with bcrypt and authentication uses JWT tokens. The frontend is built with Next.js, React and Tailwind CSS, communicating with the backend through a REST API.
